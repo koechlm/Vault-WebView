@@ -8,7 +8,7 @@ This program creates tabs which contain an internet browser.  The URL can be set
 
 REQUIREMENTS:
 ---------------------------------
-- Vault Workgroup/Professional 2014
+- Vault Workgroup/Professional 2017
 
 
 TO USE:
@@ -44,6 +44,7 @@ There is no upgrade path.  However it should be easy to set up a tab that uses t
 
 RELEASE NOTES:
 ---------------------------------
+22.56.0.0 - Update for Vault 2017. 
 4.0.2.0 - Fixed defect where selecting a different object doesn't update web view navigation.
 Fixed defect where deleting a tab in the settings dialog results in an object reference not found error.
 4.0.1.0 - Update for Vault 2014.  Added support for multiple tabs.  URLs can incorporate any Vault property.
