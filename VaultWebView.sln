@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VaultWebView", "VaultWebView.csproj", "{089E5653-AFB2-4820-A8B5-0FB65A8450D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089E5653-AFB2-4820-A8B5-0FB65A8450D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089E5653-AFB2-4820-A8B5-0FB65A8450D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089E5653-AFB2-4820-A8B5-0FB65A8450D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089E5653-AFB2-4820-A8B5-0FB65A8450D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
