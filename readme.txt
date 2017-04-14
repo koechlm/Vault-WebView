@@ -44,6 +44,7 @@ There is no upgrade path.  However it should be easy to set up a tab that uses t
 
 RELEASE NOTES:
 ---------------------------------
+2018.0.0.0 - Update for Vault 2017
 22.56.4.0 - Update for Vault 2017. 
 4.0.2.0 - Fixed defect where selecting a different object doesn't update web view navigation.
 Fixed defect where deleting a tab in the settings dialog results in an object reference not found error.

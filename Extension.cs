@@ -25,7 +25,7 @@ using Autodesk.DataManagement.Client.Framework.Vault.Currency.Entities;
 using Autodesk.DataManagement.Client.Framework.Vault.Currency.Properties;
 
 
-[assembly: ApiVersion("10.0")]
+[assembly: ApiVersion("11.0")]
 [assembly: ExtensionId("AA70B809-C896-4E59-AEB2-E8D86E795F32")]
 
 namespace VaultWebView
