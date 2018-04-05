@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>VaultWebView</RootNamespace>
     <AssemblyName>VaultWebView</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
     </FileUpgradeFlags>
@@ -62,32 +62,25 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Autodesk.Connectivity.Explorer.Extensibility">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.Connectivity.Explorer.Extensibility.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.Connectivity.Explorer.Extensibility.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.Connectivity.Extensibility.Framework">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.Connectivity.Extensibility.Framework.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.Connectivity.Extensibility.Framework.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.Connectivity.WebServices">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.Connectivity.WebServices.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.Connectivity.WebServices.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.DataManagement.Client.Framework.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Forms">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.DataManagement.Client.Framework.Forms.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Forms.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Vault">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.DataManagement.Client.Framework.Vault.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Vault.dll</HintPath>
     </Reference>
     <Reference Include="Autodesk.DataManagement.Client.Framework.Vault.Forms">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\Vault Professional 2018\Explorer\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll</HintPath>
-      <Private>False</Private>
+      <HintPath>..\..\..\..\..\Program Files (x86)\Autodesk\Autodesk Vault 2019 SDK\bin\x64\Autodesk.DataManagement.Client.Framework.Vault.Forms.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
