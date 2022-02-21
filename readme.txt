@@ -44,6 +44,7 @@ There is no upgrade path.  However it should be easy to set up a tab that uses t
 
 RELEASE NOTES:
 ---------------------------------
+2022.27.0.0 - Update for Vault 2022
 2020.25.0.0 - Update for Vault 2020
 2019.24.0.0 - Update for Vault 2019
 2018.0.0.0 - Update for Vault 2018
